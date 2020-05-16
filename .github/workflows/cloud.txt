@@ -1,0 +1,24 @@
+simply learn 
+gossipy
+
+Srs documentation –
+Requirement analysis, Design in paper  and use case diagram.[7.5]
+
+Important questions:-
+
+1 . Defination of cloud computing , types, service model and essential features.
+2.  Auto scaling 
+3.Charecteristics of cloud service provider
+4. S3 glacior
+5.Differentiation between S3 galacior and S3
+6. RDS-Relational database system, IAM and Dynamo DB. 
+
+Exam Pattern- [ 15 marks ..2 out of 3, 2 Marks 5 questions]
+
+m.id-83530197856
+password-056859
+
+
+s3 end point:http://serverlessapplication1.s3-website.ap-south-1.amazonaws.com/
+Pool Id: ap-south-1_fsRo7DsQ0
+App client id: 6k9ncd023br0rqic9j53lvrp8s
